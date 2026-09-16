@@ -1,83 +1,49 @@
-````markdown
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                     NOFAL RANA                              ║
-║              IT STUDENT · SMR · DAM                         ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=NOFAL%20RANA&fontSize=55&fontAlignY=35&desc=IT%20Student%20%7C%20SMR%20Graduate%20%7C%20DAM%20Student&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:000000,100:161616" width="100%"/>
+# NOFAL RANA
+
+### IT Student · SMR Graduate · DAM Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Programming;Systems;Networks;Artificial+Intelligence;Learning+Every+Day" alt="Typing SVG">
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=21&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Programming;Systems;Networks;Artificial+Intelligence;Learning+%7C+Building+%7C+Improving" alt="Typing animation"/>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/nofalranaprofile">
-<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<img src="https://img.shields.io/badge/IT%20STUDENT-FFFFFF?style=for-the-badge&logoColor=000000"/>
-<img src="https://img.shields.io/badge/DAM%20STUDENT-FFFFFF?style=for-the-badge&logoColor=000000"/>
+<a href="https://github.com/NOFALAHMAD54">
+<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
-
-<br>
 
 ---
 
-<div align="center">
-
-## `01` — SOBRE MÍ
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### Hola, soy Nofal.
+## Sobre mí
 
 Soy estudiante del sector **IT**, graduado en **Sistemas Microinformáticos y Redes (SMR)** y actualmente estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
-Mi formación comenzó en el mundo de los **sistemas, redes e infraestructura informática**, y con el tiempo fui desarrollando un interés cada vez mayor por la **programación** y la **inteligencia artificial**.
+Mi formación comenzó en sistemas, redes e infraestructura informática. Durante este proceso también fui desarrollando un mayor interés por la **programación** y la **inteligencia artificial**.
 
-Actualmente estoy enfocado en seguir construyendo una base sólida en tecnología mediante el aprendizaje y la práctica.
-
-<br>
-
-> **Aprender. Construir. Mejorar.**
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
-
-</td>
-</tr>
-</table>
+Actualmente estoy centrado en seguir aprendiendo, crear proyectos y mejorar mis conocimientos dentro del sector tecnológico.
 
 ---
 
 <div align="center">
 
-## `02` — MI CAMINO
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding">
 
 </div>
 
-<br>
+---
 
-<div align="center">
+## Mi camino
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center">
 
 ### SMR
 
@@ -92,263 +58,157 @@ Virtualización
 
 </td>
 
-<td align="center" width="10%">
+<td align="center">
 
-### →
+→
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
 ### DAM
 
 **ACTUALMENTE**
 
 Programación  
+Desarrollo  
 Software  
 Aplicaciones  
 Lógica  
-Proyectos  
-Desarrollo
+Proyectos
 
 </td>
 
-<td align="center" width="10%">
+<td align="center">
 
-### →
+→
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
 ### FUTURO
 
 **EN CONSTRUCCIÓN**
 
+IT  
 Desarrollo  
 Inteligencia Artificial  
-Tecnología  
 Especialización
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br>
-
-```text
-SMR
-│
-├── Sistemas
-├── Redes
-├── Hardware
-├── Seguridad
-└── Servicios
-      │
-      ▼
-DAM
-│
-├── Programación
-├── Desarrollo
-├── Software
-└── Aplicaciones
-      │
-      ▼
-   FUTURO
-      │
-      ├── Inteligencia Artificial
-      └── Especialización IT
-````
-
 ---
 
-<div align="center">
+## Formación en SMR
 
-## `03` — FORMACIÓN EN SMR
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
+Durante mi formación en **Sistemas Microinformáticos y Redes** he trabajado diferentes áreas del entorno IT.
 
 ### Sistemas
 
-Durante SMR he trabajado con conceptos relacionados con:
-
-* Sistemas operativos
-* Administración de sistemas
-* Configuración de equipos
-* Mantenimiento informático
-* Virtualización
-* Entornos Windows y Linux
-
-</td>
-
-<td width="50%" valign="top">
+- Sistemas operativos
+- Administración de sistemas
+- Configuración de equipos
+- Mantenimiento informático
+- Virtualización
+- Entornos Windows y Linux
 
 ### Redes
 
-También he desarrollado conocimientos en:
-
-* Redes locales
-* Configuración de redes
-* Servicios de red
-* Diagnóstico de problemas
-* Protocolos de comunicación
-* Herramientas de análisis
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+- Redes locales
+- Configuración de redes
+- Servicios de red
+- Protocolos de comunicación
+- Diagnóstico de problemas
+- Herramientas de análisis
 
 ### Seguridad
 
-Conceptos relacionados con:
-
-* Seguridad informática
-* Protección de sistemas
-* Buenas prácticas
-* Seguridad en redes
-* Privacidad y protección de datos
-
-</td>
-
-<td width="50%" valign="top">
+- Seguridad informática
+- Seguridad en redes
+- Protección de sistemas
+- Buenas prácticas
+- Privacidad y protección de datos
 
 ### Infraestructura
 
-Experiencia formativa trabajando con:
-
-* Hardware
-* Componentes informáticos
-* Máquinas virtuales
-* Servidores
-* Entornos de laboratorio
-
-</td>
-</tr>
-</table>
+- Hardware
+- Componentes informáticos
+- Máquinas virtuales
+- Servidores
+- Entornos de laboratorio
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Technology">
 
 </div>
 
 ---
 
-<div align="center">
+## Actualmente: DAM
 
-## `04` — ACTUALMENTE: DAM
+Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
-</div>
+Mi objetivo es avanzar desde los conocimientos de sistemas e infraestructura hacia el **desarrollo de software**.
 
-<br>
+Estoy trabajando especialmente en:
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### Desarrollo de Aplicaciones Multiplataforma
-
-Actualmente estoy continuando mi formación con **DAM**, dando el siguiente paso desde la parte de sistemas e infraestructura hacia el desarrollo de software.
-
-Mi objetivo es mejorar progresivamente en:
-
-* Programación
-* Lógica de programación
-* Desarrollo de aplicaciones
-* Resolución de problemas
-* Estructuras de datos
-* Gestión de información
-* Creación de proyectos
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-
-<br><br>
-
-`CODE`
-
-`BUILD`
-
-`LEARN`
-
-</td>
-</tr>
-</table>
+- Programación
+- Lógica de programación
+- Desarrollo de aplicaciones
+- Resolución de problemas
+- Estructuras de datos
+- Gestión de información
+- Creación de proyectos
 
 ---
 
-<div align="center">
-
-## `05` — ÁREAS DE INTERÉS
-
-</div>
-
-<br>
-
-<div align="center">
+## Áreas de interés
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
 ### SYSTEMS
 
-🖥️
-
-Sistemas
-Administración
+Sistemas  
+Administración  
 Infraestructura
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
 ### NETWORKS
 
-🌐
-
-Redes
-Servicios
+Redes  
+Servicios  
 Conectividad
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### CODE
+### PROGRAMMING
 
-💻
-
-Programación
-Lógica
+Código  
+Lógica  
 Desarrollo
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
 ### AI
 
-🧠
-
-Inteligencia
-Artificial
+Inteligencia  
+Artificial  
 Tecnología
 
 </td>
@@ -356,218 +216,99 @@ Tecnología
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
+## Tecnologías y herramientas
 
-## `06` — TECNOLOGÍAS
+### Sistemas
 
-</div>
-
-<br>
-
-### Sistemas & Entornos
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirtualBox-111111?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-
+<p>
+<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=white">
 </p>
 
 ### Programación
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ### Herramientas
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
+<p>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 ---
 
-<div align="center">
+## Cómo trabajo
 
-## `07` — CÓMO APRENDO
+Me gusta llevar las tareas hasta conseguir el resultado que busco y aprender durante el proceso.
 
-</div>
+**Constancia**  
+Intento mantener el ritmo y terminar lo que empiezo.
 
-<br>
+**Creatividad**  
+Me gusta buscar diferentes formas de resolver problemas.
 
-<div align="center">
+**Aprendizaje continuo**  
+Siempre intento ampliar mis conocimientos.
 
-```text
-             ┌─────────────────┐
-             │     APRENDER    │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │     PRACTICAR   │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │      CREAR      │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │      FALLAR     │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │     MEJORAR     │
-             └─────────────────┘
-```
+**Orientación a resultados**  
+Me gusta convertir una idea en algo funcional.
 
-</div>
+---
 
-<br>
+## Proyectos
 
-No intento aprender todo de golpe.
+Mi GitHub será el espacio donde iré recopilando mis proyectos, prácticas y trabajos realizados durante mi formación.
 
-Prefiero avanzar **paso a paso**, entender lo que estoy haciendo y convertir cada concepto en algo práctico.
+Actualmente estoy construyendo mi experiencia principalmente alrededor de:
+
+- Programación
+- Sistemas
+- Redes
+- Seguridad informática
+- Virtualización
+- Desarrollo de aplicaciones
+
+> Esta sección irá creciendo junto con mi formación en DAM.
 
 ---
 
 <div align="center">
 
-## `08` — LO QUE ME DEFINE
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Programming">
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### CONSTANCIA
-
-Intento llevar las tareas hasta el resultado que busco y mantener el ritmo de aprendizaje.
-
-</td>
-
-<td align="center" width="33%">
-
-### CREATIVIDAD
-
-Me gusta buscar diferentes formas de resolver problemas y convertir ideas en proyectos.
-
-</td>
-
-<td align="center" width="33%">
-
-### APRENDIZAJE
-
-Siempre intento ampliar mis conocimientos y mejorar lo que ya sé.
-
-</td>
-</tr>
-</table>
 
 ---
 
-<div align="center">
+## Mi objetivo
 
-## `09` — PROYECTOS
+Quiero seguir creciendo profesionalmente dentro del **sector IT**, adquirir experiencia práctica y desarrollar una carrera relacionada con la tecnología.
 
-</div>
+Mis principales intereses actualmente son:
 
-<br>
+**Programación · Sistemas · Inteligencia Artificial**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### PROGRAMACIÓN
-
-Proyectos y prácticas orientados a desarrollar la lógica de programación y resolver problemas mediante código.
-
-**En evolución**
-
-</td>
-
-<td width="50%" valign="top">
-
-### SISTEMAS & REDES
-
-Prácticas realizadas durante SMR relacionadas con sistemas operativos, redes, servicios, seguridad y virtualización.
-
-**Formación completada**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-> Esta sección irá creciendo a medida que avance en DAM y publique nuevos proyectos.
+Mi objetivo a largo plazo es continuar formándome y especializarme en tecnologías relacionadas con la **inteligencia artificial**.
 
 ---
 
-<div align="center">
-
-## `10` — OBJETIVO
-
-</div>
-
-<br>
+## GitHub
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/8vIFoKU8s4m4CBqCao/giphy.gif" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NOFALAHMAD54&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats">
 
 <br><br>
 
-### Construir una carrera dentro del sector IT.
-
-</div>
-
-<br>
-
-Quiero seguir desarrollándome profesionalmente en tecnología, adquirir experiencia práctica y encontrar un área en la que pueda crecer a largo plazo.
-
-Actualmente mis principales intereses se encuentran entre la **programación, los sistemas y la inteligencia artificial**.
-
----
-
-<div align="center">
-
-## `11` — GITHUB
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NOFALAHMAD54&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOFALAHMAD54&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" width="38%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NOFALAHMAD54&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOFALAHMAD54&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
 
 </div>
 
@@ -575,36 +316,19 @@ Actualmente mis principales intereses se encuentran entre la **programación, lo
 
 <div align="center">
 
-## `12` — CONECTA CONMIGO
-
-<br>
+## CONNECT
 
 <a href="https://www.linkedin.com/in/nofalranaprofile">
-
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
- 
-
-<a href="https://github.com/NOFALAHMAD54">
-
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161616,100:000000" width="100%"/>
+**SMR → DAM → IT → AI**
 
-### `SMR → DAM → IT → AI`
+<br>
 
-**Building my path, one project at a time.**
+*Building my path, one project at a time.*
 
 </div>
 ```
-
-**Nota importante:** he usado Markdown y HTML que GitHub documenta como compatibles para README, incluyendo imágenes, GIFs y `<picture>`/HTML.
-
-Y he dejado las tecnologías bastante controladas para **no inflar tu perfil con cosas que no hayas confirmado**. Si una de las badges no representa algo que realmente hayas utilizado, elimínala.
-
