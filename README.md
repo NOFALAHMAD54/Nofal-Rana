@@ -159,15 +159,15 @@ Durante mi formación en SMR he tenido contacto con diferentes áreas del entorn
 │   Instalación · Configuración · Administración      │
 │                                                     │
 │   REDES                                             │
-│   Configuración · Servicios · Diagnóstico            │
+│   Configuración · Servicios · Diagnóstico           │
 │                                                     │
 │   HARDWARE                                          │
-│   Montaje · Componentes · Mantenimiento              │
+│   Montaje · Componentes · Mantenimiento             │
 │                                                     │
 │   SEGURIDAD                                         │
-│   Conceptos · Buenas prácticas · Protección          │
+│   Conceptos · Buenas prácticas · Protección         │
 │                                                     │
 │   VIRTUALIZACIÓN                                    │
-│   Máquinas virtuales · Entornos de prueba            │
+│   Máquinas virtuales · Entornos de prueba           │
 │                                                     │
 └─────────────────────────────────────────────────────┘
