@@ -171,17 +171,6 @@ Actualmente curso el **Grado Superior en Desarrollo de Aplicaciones Multiplatafo
 
 <br/>
 
-<!-- ════════ TROFEOS ════════ -->
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="35"> Logros
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="trofeos"/>
-
-</div>
-
-<br/>
-
 <!-- ════════ SERPIENTE ANIMADA ════════ -->
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> Mis contribuciones, devoradas
 
