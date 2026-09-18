@@ -220,7 +220,7 @@ Redes         ██████████░░░░░░░░░░   50%
 
 <br/><br/>
 
-<i>¿Tienes un proyecto entre manos o una vacante que encaje conmigo?<br/>Escríbeme: respondo siempre.</i>
+<i>¿Tienes un proyecto entre manos o una vacante que encaje conmigo?<br/>Escríbeme por Email o por Linkedin</i>
 
 <br/><br/>
 
