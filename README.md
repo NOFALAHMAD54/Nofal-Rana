@@ -212,12 +212,13 @@ HTML, CSS y las bases necesarias para aplicaciones multiplataforma.
 </div>
 
 ```text
-Python        ████████░░░░░░░░░░░░   40%   En aprendizaje activo
-HTML / CSS    ██████████░░░░░░░░░░   50%   Base sólida
-MySQL         ████████░░░░░░░░░░░░   40%   Consultas y modelado
-Linux         ████████████████░░░░   80%   Administración y terminal
-Windows       ██████████████████░░   90%   Administración y soporte
-Redes         ███████████████░░░░░   75%   Configuración y diagnóstico
+Aprendiendo en el sector de Desarollo de Aplicaciones y Multiplataforma de momento:
+Python        ████████████████░░░░   85%   En aprendizaje activo
+HTML / CSS    ██████████████░░░░░░   70%   Base sólida
+MySQL         ███████████░░░░░░░░░   55%   Consultas y modelado
+Linux         ████████████░░░░░░░░   65%   Administración y terminal
+Windows       ██████████████░░░░░░   70%   Administración y soporte
+Redes         ██████████░░░░░░░░░░   50%   Configuración y diagnóstico
 ```
 
 <br/>
