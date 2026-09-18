@@ -232,11 +232,8 @@ Redes         ██████████░░░░░░░░░░   50%
 <a href="mailto:nofalahmad456@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353" alt="email"/>
 </a>
-<a href="(https://www.linkedin.com/in/nofalranaprofile/)">
+<a href="https://www.linkedin.com/in/nofalranaprofile/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353" alt="linkedin"/>
-</a>
-<a href="https://github.com/TU-USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39D353" alt="github"/>
 </a>
 
 <br/><br/>
