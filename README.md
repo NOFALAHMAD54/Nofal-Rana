@@ -229,6 +229,7 @@ MySQL         ████████░░░░░░░░░░░░   40%
 Linux         ████████████████░░░░   80%   Administración y terminal
 Windows       ██████████████████░░   90%   Administración y soporte
 Redes         ███████████████░░░░░   75%   Configuración y diagnóstico
+```
 
 <br/>
 
