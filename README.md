@@ -223,13 +223,12 @@ HTML, CSS y las bases necesarias para aplicaciones multiplataforma.
 </div>
 
 ```text
-Redes        ████████░░░░░░░░░░░░   40%   Configuración y diagnóstico
+Python        ████████░░░░░░░░░░░░   40%   En aprendizaje activo
 HTML / CSS    ██████████░░░░░░░░░░   50%   Base sólida
 MySQL         ████████░░░░░░░░░░░░   40%   Consultas y modelado
 Linux         ████████████████░░░░   80%   Administración y terminal
 Windows       ██████████████████░░   90%   Administración y soporte
-Redes         ███████████████░░░░░   75%   En aprendizaje activo
-```
+Redes         ███████████████░░░░░   75%   Configuración y diagnóstico
 
 <br/>
 
