@@ -1,524 +1,267 @@
-<!-- ========================================================= -->
+<!--
+═══════════════════════════════════════════════════════════════
+  README de perfil de GitHub — Nofal Ahmad Rana Zafar
+  Paleta: Verde (#39D353 / #00FF87) · Negro (#0D1117) · Blanco (#FFFFFF)
+  ⚠️  Sustituye TU-USUARIO por tu nombre de usuario real de GitHub
+═══════════════════════════════════════════════════════════════
+-->
 
-<!--                    NOFAL RANA - GITHUB                    -->
-
-<!-- ========================================================= -->
-
+<!-- ════════ CABECERA ANIMADA ════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:3a3a3a&height=220&section=header&text=Nofal%20Rana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SMR%20%7C%20Tecnolog%C3%ADa%20%7C%20Programaci%C3%B3n%20%7C%20IA&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:39D353,100:00FF87&height=220&section=header&text=Nofal%20Ahmad%20Rana%20Zafar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=T%C3%A9cnico%20en%20Sistemas%20Inform%C3%A1ticos%20%7C%20Desarrollador%20Multiplataforma&descAlignY=55&descSize=18" alt="cabecera"/>
 
-<br>
-
-<a href="https://github.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=23&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=T%C3%A9cnico+en+Sistemas+Microinform%C3%A1ticos+y+Redes;Apasionado+por+la+tecnolog%C3%ADa;Aprendiendo+programaci%C3%B3n+paso+a+paso;Explorando+la+Inteligencia+Artificial;Construyendo+mi+futuro+en+IT" alt="Typing SVG"/>
+<!-- ════════ TEXTO QUE SE ESCRIBE SOLO ════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Nofal+%F0%9F%91%8B;T%C3%A9cnico+en+Sistemas+Inform%C3%A1ticos;Estudiante+de+DAM+%E2%80%94+Valencia;Windows+%7C+Linux+%7C+Redes+%7C+Virtualizaci%C3%B3n;Aprendiendo+Python%2C+HTML+y+MySQL" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=nofalrana&label=VISITAS%20AL%20PERFIL&color=000000&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `> whoami`
-
-### Nofal Rana
-
-**Técnico en Sistemas Microinformáticos y Redes (SMR)**
-**Valencia, España**
-**Tecnología · Sistemas · Redes · Programación · Inteligencia Artificial**
+<!-- ════════ INSIGNIAS DE PRESENTACIÓN ════════ -->
+<img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas%20al%20perfil&color=39D353&style=for-the-badge" alt="contador de visitas"/>
+<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Valencia,%20Espa%C3%B1a-0D1117?style=for-the-badge&logo=googlemaps&logoColor=39D353" alt="ubicación"/>
+<img src="https://img.shields.io/badge/Estado-Abierto%20a%20oportunidades-39D353?style=for-the-badge&logo=handshake&logoColor=white" alt="estado"/>
 
 </div>
 
-<br>
+<br/>
 
-<div align="center">
+<!-- ════════ SEPARADOR ANIMADO ════════ -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="separador"/>
 
-> *"No busco saberlo todo. Busco seguir aprendiendo."*
+<br/>
 
-</div>
+<!-- ════════ SOBRE MÍ ════════ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Sobre mí
 
----
+<img align="right" width="380" src="https://raw.githubusercontent.com/gist/Gabriellgpc/portfolio/main/programmer.gif" alt="programando" />
 
-# 01 · SOBRE MÍ
+```yaml
+nombre:     "Nofal Ahmad Rana Zafar"
+rol:        "Técnico en Sistemas Informáticos"
+ubicación:  "Valencia, España"
+formación:  "DAM — Desarrollo de Aplicaciones Multiplataforma"
+idiomas:    ["Español · Profesional", "Inglés · B2"]
+intereses:  ["Desarrollo de software", "IA", "Ciberseguridad"]
+lema:       "Cada problema técnico es una oportunidad de aprender"
+```
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Soy **Técnico en Sistemas Microinformáticos y Redes (SMR)** con verdadera pasión por la tecnología, el desarrollo de software y la inteligencia artificial.
 
-Soy una persona interesada en el mundo de la tecnología y en seguir desarrollándome dentro del sector IT.
+Durante mi formación y mis prácticas he trabajado con **administración de sistemas Windows y Linux**, redes, soporte técnico, mantenimiento de hardware y virtualización, resolviendo incidencias reales en entornos con decenas de equipos y usuarios.
 
-He terminado el **Grado Medio de Sistemas Microinformáticos y Redes (SMR)**, una etapa en la que he podido conocer diferentes áreas de la informática: sistemas operativos, redes, seguridad, hardware, servicios en red y programación.
-
-Durante esta etapa descubrí especialmente mi interés por la **Inteligencia Artificial**, la **gestión de sistemas operativos** y, posteriormente, la **programación**.
-
-Me gusta aprender de forma práctica, probar herramientas, entender cómo funcionan las cosas y buscar soluciones cuando aparece un problema.
-
-Actualmente estoy orientando mi formación hacia el desarrollo de software y quiero seguir creciendo dentro del mundo tecnológico.
+Actualmente curso el **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**, ampliando mi perfil desde la administración de sistemas hacia la programación. Me muevo bien entre el hardware y el código, y disfruto especialmente cuando un proyecto exige entender ambos mundos.
 
 <br clear="right"/>
 
----
+<br/>
 
-# 02 · MI CAMINO EN IT
-
-<div align="center">
-
-```text
-                    MI CAMINO
-                       │
-                       ▼
-              ┌─────────────────┐
-              │       ESO       │
-              │    2023/2024    │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │       SMR       │
-              │  Sistemas Micro │
-              │  informáticos   │
-              │    y Redes      │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │      DAM        │
-              │  Próximo paso   │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   PROGRAMACIÓN  │
-              │       + IA      │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   FUTURO EN IT  │
-              └─────────────────┘
-```
-
-</div>
-
----
-
-# 03 · FORMACIÓN
-
-## Sistemas Microinformáticos y Redes — SMR
-
-**Grado Medio · Formación Profesional**
-
-He completado y obtenido el título de **Técnico en Sistemas Microinformáticos y Redes**.
-
-Durante SMR he trabajado diferentes áreas fundamentales de la informática:
+<!-- ════════ STACK TECNOLÓGICO ════════ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stack tecnológico
 
 <div align="center">
 
-|             ÁREA            | EXPERIENCIA FORMATIVA                                    |
-| :-------------------------: | :------------------------------------------------------- |
-| 🖥️ **Sistemas Operativos** | Instalación, configuración y gestión de sistemas         |
-|         🌐 **Redes**        | Redes locales, direccionamiento y servicios de red       |
-|       🔧 **Hardware**       | Montaje, mantenimiento y diagnóstico de equipos          |
-|       🔐 **Seguridad**      | Conceptos de seguridad informática y protección          |
-|   🖧 **Servicios en Red**   | Configuración y administración de servicios              |
-|     💻 **Programación**     | Primeros pasos en programación y resolución de problemas |
-|     🗄️ **Sistemas Web**    | Conceptos relacionados con servicios y tecnologías web   |
-|    ☁️ **Digitalización**    | Tecnologías digitales y transformación de procesos       |
+### Sistemas operativos y administración
+<p>
+<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Windows%20Server-0D1117?style=for-the-badge&logo=windows&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=39D353" />
+</p>
+
+### Redes, virtualización y soporte
+<p>
+<img src="https://img.shields.io/badge/Redes%20TCP%2FIP-0D1117?style=for-the-badge&logo=cisco&logoColor=39D353" />
+<img src="https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=39D353" />
+<img src="https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=vmware&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Hardware-0D1117?style=for-the-badge&logo=intel&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Ciberseguridad-0D1117?style=for-the-badge&logo=hackthebox&logoColor=39D353" />
+</p>
+
+### Desarrollo y datos
+<p>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39D353" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=39D353" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=39D353" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=39D353" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39D353" />
+</p>
 
 </div>
 
----
+<br/>
 
-# 04 · LO QUE HE APRENDIDO EN SMR
-
-<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-### 🖥️ Sistemas Operativos
-
-Una de las áreas que más me ha interesado.
-
-He trabajado con sistemas Windows y Linux, además de utilizar máquinas virtuales para realizar diferentes prácticas.
-
-**Conceptos trabajados:**
-
-* Administración de sistemas
-* Instalación y configuración
-* Usuarios y permisos
-* Máquinas virtuales
-* Windows
-* Ubuntu / Linux
-* Servicios del sistema
-* Gestión básica desde terminal
-
-<br clear="right"/>
-
----
-
-## 🌐 Redes y Servicios en Red
-
-Otra parte importante de mi formación ha sido entender cómo se comunican los dispositivos.
-
-He trabajado conceptos relacionados con:
-
-* Redes LAN
-* Direccionamiento IP
-* Servicios de red
-* DNS
-* DHCP
-* HTTP / HTTPS
-* SSH
-* Puertos
-* Conectividad
-* Diagnóstico de problemas de red
-* Herramientas de análisis de red
-
-También he realizado prácticas utilizando herramientas como **Nmap / Zenmap** y entornos virtualizados.
-
----
-
-# 05 · SEGURIDAD INFORMÁTICA
-
-<img align="left" width="280" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
-
-Durante SMR también he aprendido conceptos fundamentales relacionados con la seguridad informática.
-
-Algunos de los temas que he trabajado son:
-
-**Seguridad de sistemas**
-
-**Protección de información**
-
-**Privacidad y datos personales**
-
-**RGPD**
-
-**AEPD**
-
-**Cookies**
-
-**LSSI**
-
-**Seguridad en redes**
-
-**Buenas prácticas de protección**
-
-<br clear="left"/>
-
----
-
-# 06 · PROGRAMACIÓN
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420">
-
-</div>
-
-La programación es una de las áreas que más me ha ido llamando la atención durante mi formación.
-
-He empezado a trabajar con **Python**, aprendiendo desde conceptos básicos hasta estructuras y pequeños proyectos.
-
-### Conceptos que he trabajado
-
-```python
-variables
-input / output
-if / elif / else
-for / while
-funciones
-listas
-diccionarios
-matrices
-archivos
-JSON
-regex
-iteradores
-programación orientada a objetos
-```
-
-Mi objetivo no es simplemente aprender sintaxis.
-
-Quiero entender **cómo pensar un problema, dividirlo en partes y construir una solución**.
-
----
-
-# 07 · TECNOLOGÍAS Y HERRAMIENTAS
-
-<div align="center">
-
-### Lenguajes
-
-<img src="https://skillicons.dev/icons?i=python,html,css" />
-
-<br><br>
-
-### Sistemas y herramientas
-
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,git,github,vscode,linux" />
-
-<br><br>
-
-### Áreas
-
-<img src="https://img.shields.io/badge/Sistemas-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redes-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seguridad-111111?style=for-the-badge&logo=protonvpn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Programación-111111?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/IA-111111?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</div>
-
----
-
-# 08 · MIS PUNTOS FUERTES
-
-No considero que aprender tecnología sea únicamente memorizar comandos.
-
-Mis principales puntos fuertes son:
-
-### 01 — Constancia
-
-Cuando algo me interesa, intento seguir trabajando hasta conseguir el resultado que busco.
-
-### 02 — Creatividad
-
-Me gusta buscar diferentes formas de hacer las cosas y encontrar soluciones propias.
-
-### 03 — Aprendizaje
-
-Tengo interés por seguir aprendiendo nuevas tecnologías y mejorar progresivamente mis conocimientos.
-
-### 04 — Resolución de problemas
-
-Cuando algo no funciona, intento entender el problema antes de buscar una solución.
-
-### 05 — Mentalidad de mejora
-
-Considero que siempre hay algo nuevo que aprender, especialmente en un sector que cambia constantemente.
-
----
-
-# 09 · INTELIGENCIA ARTIFICIAL
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1nZzQ1NXJ6M3RjM2V6cWQ3N2N4d3M4b2F4bWZ3b3N5ZzVqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5wWf7GR2nhgV8/giphy.gif" width="430">
-
-</div>
-
-La **Inteligencia Artificial** es una de las áreas tecnológicas que más me interesa.
-
-Durante SMR fue uno de los temas que más curiosidad me generó y es una de las áreas que quiero seguir explorando durante mi formación.
-
-Mi objetivo es combinar progresivamente:
-
-```text
-PROGRAMACIÓN
-     +
-SISTEMAS
-     +
-DATOS
-     +
-INTELIGENCIA ARTIFICIAL
-     ↓
-SOLUCIONES TECNOLÓGICAS
-```
-
-No pretendo quedarme únicamente en utilizar herramientas de IA.
-
-Quiero comprender cada vez mejor **cómo funcionan y cómo puedo utilizarlas para construir soluciones**.
-
----
-
-# 10 · PRÓXIMO PASO: DAM
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&text=DESARROLLO%20DE%20APLICACIONES%20MULTIPLATAFORMA&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
-Después de finalizar SMR, mi siguiente objetivo académico es continuar con el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-
-Quiero utilizar esta nueva etapa para profundizar en:
-
-```text
-Programación
-    │
-    ├── Desarrollo de aplicaciones
-    │
-    ├── Bases de datos
-    │
-    ├── Desarrollo multiplataforma
-    │
-    ├── Ingeniería de software
-    │
-    └── Nuevas tecnologías
-```
-
-Mi objetivo a largo plazo es continuar formándome en el ámbito tecnológico y acercarme cada vez más al campo de la **Inteligencia Artificial**.
-
----
-
-# 11 · PROYECTOS Y PRÁCTICAS
-
-<div align="center">
-
-### Lo que estoy construyendo mientras aprendo
-
-</div>
+<!-- ════════ EXPERIENCIA ════════ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Experiencia
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🐍 Python
+### 🟩 IES Rascanya
+**Soporte técnico y sistemas**
+`Enero 2026 — Marzo 2026`
 
-Prácticas y pequeños programas realizados durante mi aprendizaje.
-
-**Listas · Diccionarios · JSON · Archivos · Funciones · OOP**
-
-</td>
-
-<td width="50%" align="center">
-
-### 🌐 Redes
-
-Prácticas relacionadas con redes locales y servicios.
-
-**DNS · DHCP · HTTP · HTTPS · SSH · Nmap**
+- Soporte técnico a profesorado, personal administrativo y alumnado.
+- Instalación, configuración y mantenimiento de **Windows y Linux**.
+- Diagnóstico y resolución de incidencias de **hardware y software**.
+- Configuración de impresoras, periféricos y equipamiento de aula.
+- Puesta a punto y mantenimiento de aulas de informática.
+- Mantenimiento preventivo para garantizar la estabilidad del parque informático.
+- Configuración básica de **red** y resolución de problemas de conectividad.
+- Apoyo al profesorado durante sesiones prácticas.
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td width="50%" align="center">
+### 🟩 IES Rascanya
+**Apoyo al departamento de informática**
+`Marzo 2024 — Junio 2025`
 
-### 🖥️ Sistemas
-
-Prácticas realizadas con sistemas Windows y Linux.
-
-**Ubuntu · Windows Server · VirtualBox · Terminal**
-
-</td>
-
-<td width="50%" align="center">
-
-### 🔐 Seguridad
-
-Prácticas y ejercicios relacionados con seguridad informática.
-
-**RGPD · LSSI · Cookies · Seguridad de sistemas**
+- Preparación y **configuración de equipos informáticos**.
+- Instalación de software educativo y actualizaciones del sistema.
+- Resolución de incidencias técnicas para alumnado y personal.
+- Gestión y organización del **inventario de equipamiento TI**.
+- Mantenimiento rutinario de ordenadores y periféricos.
+- Coordinación con profesorado y equipo TI para dejar las aulas listas.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# 12 · CÓMO APRENDO
+<!-- ════════ FORMACIÓN ════════ -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Formación
 
 <div align="center">
+
+| Periodo | Titulación | Centro |
+|:---:|:---|:---|
+| `2026 — Actualidad` | **Desarrollo de Aplicaciones Multiplataforma (DAM)** | CEAC · Valencia |
+| `2024 — 2026` | **Sistemas Microinformáticos y Redes (SMR)** — Técnico en Sistemas Informáticos | IES José Ballester Gozalvo · Valencia |
+| `2023 — 2024` | **Educación Secundaria Obligatoria (ESO)** | IES Orriols · Valencia |
+
+</div>
+
+> **Contenidos clave del SMR:** administración de sistemas, redes, soporte técnico, fundamentos de ciberseguridad, mantenimiento de hardware, virtualización y programación.
+
+<br/>
+
+<!-- ════════ ESTADÍSTICAS DE GITHUB ════════ -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"> Estadísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&title_color=39D353&icon_color=00FF87&text_color=FFFFFF&bg_color=0D1117&locale=es&custom_title=Estad%C3%ADsticas%20de%20GitHub" alt="estadísticas de github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&title_color=39D353&text_color=FFFFFF&bg_color=0D1117&locale=es&custom_title=Lenguajes%20m%C3%A1s%20usados" alt="lenguajes más usados"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=00FF87&fire=00FF87&currStreakLabel=39D353&sideLabels=FFFFFF&dates=FFFFFF&locale=es" alt="racha de contribuciones"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&bg_color=0D1117&color=FFFFFF&line=39D353&point=00FF87&area=true&area_color=39D353&hide_border=true&custom_title=Actividad%20de%20contribuciones" width="100%" alt="gráfico de actividad"/>
+
+</div>
+
+<br/>
+
+<!-- ════════ TROFEOS ════════ -->
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="35"> Logros
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="trofeos"/>
+
+</div>
+
+<br/>
+
+<!-- ════════ SERPIENTE ANIMADA ════════ -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> Mis contribuciones, devoradas
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="animación de la serpiente comiendo las contribuciones" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ════════ OBJETIVOS ════════ -->
+## <img src="https://media.giphy.com/media/Ll2fYYDQOqM5wLtdFm/giphy.gif" width="35"> En qué estoy trabajando
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-0D1117?style=for-the-badge" height="4"/><br/>
+<h3>🐍 Python</h3>
+Fundamentos, automatización de tareas y primeros proyectos de backend.
+</td>
+<td align="center" width="33%">
+<h3>🗄️ Bases de datos</h3>
+Modelado relacional y consultas SQL con MySQL.
+</td>
+<td align="center" width="33%">
+<h3>🌐 Desarrollo web</h3>
+HTML, CSS y las bases necesarias para aplicaciones multiplataforma.
+</td>
+</tr>
+</table>
+
+</div>
 
 ```text
-        ┌───────────────┐
-        │     IDEA      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │  INVESTIGAR   │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    PRACTICAR  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   EQUIVOCARSE │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    MEJORAR    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    REPETIR    │
-        └───────────────┘
+Python        ████████░░░░░░░░░░░░   40%   En aprendizaje activo
+HTML / CSS    ██████████░░░░░░░░░░   50%   Base sólida
+MySQL         ████████░░░░░░░░░░░░   40%   Consultas y modelado
+Linux         ████████████████░░░░   80%   Administración y terminal
+Windows       ██████████████████░░   90%   Administración y soporte
+Redes         ███████████████░░░░░   75%   Configuración y diagnóstico
 ```
 
-</div>
+<br/>
 
-Creo que la mejor forma de aprender tecnología es **hacer cosas**.
-
-Por eso quiero que este perfil vaya creciendo conmigo: cada nuevo proyecto, práctica o tecnología que aprenda tendrá su espacio aquí.
-
----
-
-# 13 · MI OBJETIVO
+<!-- ════════ CONTACTO ════════ -->
+## <img src="https://media.giphy.com/media/Ph0jmvT6HFRe0DCPp3/giphy.gif" width="35"> Hablemos
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380">
-
-### Construir una carrera dentro del mundo tecnológico.
-
-</div>
-
-Quiero seguir creciendo profesionalmente, adquirir experiencia y encontrar un entorno dentro del sector IT en el que pueda desarrollar mis conocimientos y sentirme cómodo con lo que hago.
-
-Mi camino todavía está empezando.
-
-Pero tengo claro que quiero seguir avanzando.
-
----
-
-# 14 · ESTADÍSTICAS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nofalrana&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nofalrana&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nofalrana&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
----
-
-# 15 · CONECTA CONMIGO
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nofalranaprofile">
-<img src="https://img.shields.io/badge/LinkedIn-Nofal%20Rana-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:nofalahmad456@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353" alt="email"/>
+</a>
+<a href="https://www.linkedin.com/in/TU-PERFIL">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353" alt="linkedin"/>
+</a>
+<a href="https://github.com/TU-USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39D353" alt="github"/>
 </a>
 
-<a href="https://github.com/nofalrana">
-<img src="https://img.shields.io/badge/GitHub-Nofal%20Rana-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/><br/>
 
-</div>
+<i>¿Tienes un proyecto entre manos o una vacante que encaje conmigo?<br/>Escríbeme: respondo siempre.</i>
 
-<br>
+<br/><br/>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" alt="separador animado"/>
 
-### Gracias por visitar mi perfil.
+<br/>
 
-**Este README irá evolucionando a medida que yo también lo haga.**
+> ### *"La tecnología no se aprende leyendo: se aprende rompiendo cosas y arreglándolas."*
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:3a3a3a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:39D353,100:0D1117&height=140&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=22&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" alt="pie de página"/>
 
 </div>
