@@ -213,6 +213,7 @@ HTML, CSS y las bases necesarias para aplicaciones multiplataforma.
 
 ```text
 Aprendiendo en el sector de Desarollo de Aplicaciones y Multiplataforma de momento:
+
 Python        ████████████████░░░░   85%   En aprendizaje activo
 HTML / CSS    ██████████████░░░░░░   70%   Base sólida
 MySQL         ███████████░░░░░░░░░   55%   Consultas y modelado
