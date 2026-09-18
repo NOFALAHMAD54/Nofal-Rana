@@ -151,25 +151,7 @@ Actualmente curso el **Grado Superior en Desarrollo de Aplicaciones Multiplatafo
 
 <br/>
 
-<!-- ════════ ESTADÍSTICAS DE GITHUB ════════ -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"> Estadísticas
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&title_color=39D353&icon_color=00FF87&text_color=FFFFFF&bg_color=0D1117&locale=es&custom_title=Estad%C3%ADsticas%20de%20GitHub" alt="estadísticas de github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&title_color=39D353&text_color=FFFFFF&bg_color=0D1117&locale=es&custom_title=Lenguajes%20m%C3%A1s%20usados" alt="lenguajes más usados"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=00FF87&fire=00FF87&currStreakLabel=39D353&sideLabels=FFFFFF&dates=FFFFFF&locale=es" alt="racha de contribuciones"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&bg_color=0D1117&color=FFFFFF&line=39D353&point=00FF87&area=true&area_color=39D353&hide_border=true&custom_title=Actividad%20de%20contribuciones" width="100%" alt="gráfico de actividad"/>
-
-</div>
-
-<br/>
 
 <!-- ════════ SERPIENTE ANIMADA ════════ -->
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> Mis contribuciones, devoradas
